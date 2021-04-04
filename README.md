@@ -1,10 +1,12 @@
-# ДЗ по ТММ 
+## Dash Brain Surface Viewer
 
-#### Примечание. Все задания делаются на Python. ДЗ должно содержать Титульник, задание, краткое описание алгоритма работы программы, текст работающей программы.  
-#### Защита ДЗ будет происходить посредством демонстрации программы и ответов на вопросы по заданию.
+View the app: http://brain-surface-viewer.herokuapp.com/
 
-### Вариант 2:
-Синтез 3D изображения цветного автомобиля с использованием dash библиотеки python 
-Доп информация для реализации ДЗ: 
-https://dash-gallery.plotly.host/dash-brain-viewer/   
-https://dash-gallery.plotly.host/dash-3d-image-partitioning/
+![brain-app-screenshot](ZOMBIE_BRAIN.png)
+
+### Credit
+
+- [ACE Lab](https://www.mcgill.ca/bic/research/ace-lab-evans) at McGill for the brain data and inspiration from their excellent brain [Surface Viewer](https://brainbrowser.cbrain.mcgill.ca/surface-viewer#ct)
+- [Julia Huntenburg](https://github.com/juhuntenburg) for figuring out how to [read MNI objects in Python](https://github.com/juhuntenburg/laminar_python/blob/master/io_mesh.py)
+- [E. Petrisor](https://github.com/empet) for her extensive [exploration in Python with Plotly.js meshes](https://plot.ly/~empet/14767/mesh3d-from-a-stl-file/)
+
