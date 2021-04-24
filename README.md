@@ -1,13 +1,49 @@
-# Dash Brain Viewer
+### ДЗ по ТММ (Технология мультимедиа)
+#### Вариант 2
 
-## About this app
+#### Задание: 
+Синтез 3D изображения цветного автомобиля с использованием dash библиотеки python.
 
+Для проекта были использован данный репозиторий: [plotly/dash-brain-surface-viewer](https://github.com/plotly/dash-brain-surface-viewer)
 
-This demo represents a brain model. The user is able to annotate the brain.
+## Как запустить это приложение
 
+(Следующие инструкции относятся к Posix/bash. Пользователи Windows должны проверить
+[здесь] (https://docs.python.org/3/library/venv.html).)
 
-Original repo: [plotly/dash-brain-surface-viewer](https://github.com/plotly/dash-brain-surface-viewer)
+Сначала клонируйте этот репозиторий и откройте терминал в корневой папке.
+Создание и активация новой виртуальной среды (рекомендуется) путем запуска
+следующее:
+```bash
+python3 -m venv myvenv
+source myvenv/bin/activate
+```
+Установите требования:
+```bash
+pip install -r requirements.txt
+```
+Запустите приложение:
+```bash
+python app.py
+```
+Откройте браузер по адресу http ://127.0.0.1:8050  
 
+## Снимки экрана  
+! [brain.png] (brain.png)  
+ 
+### Материалы
+- [ACE Lab] (https://www.mcgill.ca/bic/research/ace-lab-evans) в McGill для данных мозга и вдохновения от их превосходного мозга [Surface Viewer]  https://brainbrowser.cbrain.mcgill.ca/surface-viewer#ct)  
+- [Джулия Хунтенбург] (https://github.com/juhuntenburg) за выяснение того, как [читать объекты MNI в Python]   (https://github.com/juhuntenburg/laminar_python/blob/master/io_mesh.py)  
+- [Е. Петрисор] (https://github.com/empet) за её обширные [исследования в Питоне с сетками Плотлы.js] (https://plot.ly/~empet/14767/mesh3d-from-a-stl-file/)  
+-------------------------------------------------------------
+
+### TMM DZ (Multimedia Technology)  
+#### Variant 2  
+
+#### Job:  
+Synthesis of 3D images of a color car using the dash library python.  
+
+This repository was used for the project: [plotly/dash-brain-surface-viewer] (https://github.com/plotly/dash-brain-surface-viewer)  
 
 ## How to run this app
 
