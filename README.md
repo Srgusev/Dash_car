@@ -29,7 +29,8 @@ python app.py
 Откройте браузер по адресу http ://127.0.0.1:8050  
 
 ## Снимки экрана  
-! [brain.png] (brain.png)  
+
+![brain.png](brain.png)  
  
 ### Материалы
 - [ACE Lab] (https://www.mcgill.ca/bic/research/ace-lab-evans) в McGill для данных мозга и вдохновения от их превосходного мозга [Surface Viewer]  https://brainbrowser.cbrain.mcgill.ca/surface-viewer#ct)  
