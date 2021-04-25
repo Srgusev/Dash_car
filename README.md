@@ -30,7 +30,7 @@ python app.py
 
 ## Снимки экрана  
 
-![brain.png](brain.png)  
+![car.png](car.png)  
  
 ### Материалы
 - [ACE Lab] (https://www.mcgill.ca/bic/research/ace-lab-evans) в McGill для данных мозга и вдохновения от их превосходного мозга [Surface Viewer]  https://brainbrowser.cbrain.mcgill.ca/surface-viewer#ct)  
@@ -75,7 +75,7 @@ Open a browser at http://127.0.0.1:8050
 
 ## Screenshots
 
-![brain.png](brain.png)
+![car.png](car.png)
 
 ### Credit
 
