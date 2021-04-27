@@ -8,7 +8,7 @@
 
 ## Как запустить это приложение
 
-(Следующие инструкции относятся к Posix/bash. Пользователи Windows должны проверить
+Следующие инструкции относятся к Posix/bash. Пользователи Windows должны проверить
 [здесь](https://docs.python.org/3/library/venv.html)
 
 Сначала клонируйте этот репозиторий и откройте терминал в корневой папке.
@@ -48,7 +48,7 @@ This repository was used for the project: [plotly/dash-brain-surface-viewer](htt
 
 ## How to run this app
 
-(The following instructions apply to Posix/bash. Windows users should check
+The following instructions apply to Posix/bash. Windows users should check
 [here](https://docs.python.org/3/library/venv.html)  
 
 First, clone this repository and open a terminal inside the root folder.
