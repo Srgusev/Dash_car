@@ -54,7 +54,7 @@ The following instructions apply to Posix/bash. Windows users should check
 First, clone this repository and open a terminal inside the root folder.
 
 Create and activate a new virtual environment (recommended) by running
-the following:
+the following:  
 
 ```bash
 python3 -m venv myvenv
