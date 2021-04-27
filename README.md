@@ -9,7 +9,7 @@
 ## Как запустить это приложение
 
 (Следующие инструкции относятся к Posix/bash. Пользователи Windows должны проверить
-[здесь] (https://docs.python.org/3/library/venv.html).)
+[здесь](https://docs.python.org/3/library/venv.html)
 
 Сначала клонируйте этот репозиторий и откройте терминал в корневой папке.
 Создание и активация новой виртуальной среды (рекомендуется) путем запуска
@@ -33,9 +33,9 @@ python app.py
 ![car.png](car.png)  
  
 ### Материалы
-- [ACE Lab] (https://www.mcgill.ca/bic/research/ace-lab-evans) в McGill для данных мозга и вдохновения от их превосходного мозга [Surface Viewer]  https://brainbrowser.cbrain.mcgill.ca/surface-viewer#ct)  
-- [Джулия Хунтенбург] (https://github.com/juhuntenburg) за выяснение того, как [читать объекты MNI в Python]   (https://github.com/juhuntenburg/laminar_python/blob/master/io_mesh.py)  
-- [Е. Петрисор] (https://github.com/empet) за её обширные [исследования в Питоне с сетками Плотлы.js] (https://plot.ly/~empet/14767/mesh3d-from-a-stl-file/)  
+- [ACE Lab](https://www.mcgill.ca/bic/research/ace-lab-evans) в McGill для данных мозга и вдохновения от их превосходного мозга [Surface Viewer](https://brainbrowser.cbrain.mcgill.ca/surface-viewer#ct)   
+- [Джулия Хунтенбург](https://github.com/juhuntenburg) за выяснение того, как [читать объекты MNI в Python](https://github.com/juhuntenburg/laminar_python/blob/master/io_mesh.py)  
+- [Е. Петрисор](https://github.com/empet) за её обширные [исследования в Питоне с сетками Плотлы.js](https://plot.ly/~empet/14767/mesh3d-from-a-stl-file/)  
 -------------------------------------------------------------
 
 ### TMM DZ (Multimedia Technology)  
@@ -44,12 +44,12 @@ python app.py
 #### Job:  
 Synthesis of 3D images of a color car using the dash library python.  
 
-This repository was used for the project: [plotly/dash-brain-surface-viewer] (https://github.com/plotly/dash-brain-surface-viewer)  
+This repository was used for the project: [plotly/dash-brain-surface-viewer](https://github.com/plotly/dash-brain-surface-viewer)  
 
 ## How to run this app
 
 (The following instructions apply to Posix/bash. Windows users should check
-[here](https://docs.python.org/3/library/venv.html).)
+[here](https://docs.python.org/3/library/venv.html)  
 
 First, clone this repository and open a terminal inside the root folder.
 
