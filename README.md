@@ -4,6 +4,8 @@
 #### Задание: 
 Синтез 3D изображения цветного автомобиля с использованием dash библиотеки python.
 
+#### Отчёт  
+
 Для проекта были использован данный репозиторий: [plotly/dash-brain-surface-viewer](https://github.com/plotly/dash-brain-surface-viewer)
 
 ## Как запустить это приложение
